@@ -1,0 +1,12 @@
+# Text file normalization
+
+# See https://github.com/github/linguist
+*.yaml linguist-detectable=false
+*.png binary
+src/*.astro linguist-detectable
+
+*.min.css linguist-generated
+public/*.html linguist-vendored
+
+public/** linguist-vendored
+# eof c2ab40b4
