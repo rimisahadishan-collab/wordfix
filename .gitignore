@@ -1,0 +1,6 @@
+.cache/
+coverage/
+*.tgz
+.next/
+node_modules/
+dist/
